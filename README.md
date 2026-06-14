@@ -18,18 +18,17 @@ local Window = Rayfield:CreateWindow({
    },
    Discord = {
       Enabled = false,
-      Invite = "sirius",
+      Invite = "N_B",
       RememberJoins = true
    },
    KeySystem = true,
    KeySettings = {
-      Title = "Sirius Hub",
+      Title = "N_B Hub",
       Subtitle = "Key System",
-      Note = "Join the discord (discord.gg/sirius)",
       FileName = "SiriusKey",
       SaveKey = true,
       GrabKeyFromSite = false,
-      Key = "Hello" -- 키 시스템 암호: Hello
+      Key = "roblox"
    }
 })
 
